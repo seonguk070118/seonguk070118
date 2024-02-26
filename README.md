@@ -19,9 +19,8 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seonguk070118&bg_color=60,ff94af,b4b3ff&title_color=ffffff&text_color=ffffff"
-         /> 
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttygght3234)](https://solved.ac/ttygght3234/) 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seonguk070118&bg_color=60,ff94af,b4b3ff&title_color=ffffff&text_color=ffffff"/> 
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttygght3234)](https://solved.ac/ttygght3234/) 
     </div> 
 </div>
     
