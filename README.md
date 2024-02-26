@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa3f7,100:b7a3ff&height=180&text=hi%20there!%20I'm%20seonguk&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Hello! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 꾸준히 노력하는 개발자 입니다.</li> </div> 
     </div>
     <div align= "center">
